@@ -69,9 +69,9 @@ group :test do
 end
 gem 'devise'
 
-gem 'mysql2'
 
-group :production do
+
+#group :production do
   #gem 'pg'
-   gem 'mysql2'
-end
+
+#end
