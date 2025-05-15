@@ -6,7 +6,7 @@ development:
   <<: *default
   adapter: mysql2
   username: root
-  password:
+  password: srzv82jy
   host: localhost
   database: protospace_42320_development
 
